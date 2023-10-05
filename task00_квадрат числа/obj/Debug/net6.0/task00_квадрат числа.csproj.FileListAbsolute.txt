@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\c#\task00_квадрат числа\bin\Debug\net6.0\task00_квадрат числа.exe
+C:\Users\Admin\Desktop\c#\task00_квадрат числа\bin\Debug\net6.0\task00_квадрат числа.deps.json
+C:\Users\Admin\Desktop\c#\task00_квадрат числа\bin\Debug\net6.0\task00_квадрат числа.runtimeconfig.json
+C:\Users\Admin\Desktop\c#\task00_квадрат числа\bin\Debug\net6.0\task00_квадрат числа.dll
+C:\Users\Admin\Desktop\c#\task00_квадрат числа\bin\Debug\net6.0\task00_квадрат числа.pdb
+C:\Users\Admin\Desktop\c#\task00_квадрат числа\obj\Debug\net6.0\task00_квадрат числа.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\c#\task00_квадрат числа\obj\Debug\net6.0\task00_квадрат числа.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\c#\task00_квадрат числа\obj\Debug\net6.0\task00_квадрат числа.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\c#\task00_квадрат числа\obj\Debug\net6.0\task00_квадрат числа.AssemblyInfo.cs
+C:\Users\Admin\Desktop\c#\task00_квадрат числа\obj\Debug\net6.0\task00_квадрат числа.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\c#\task00_квадрат числа\obj\Debug\net6.0\task00_квадрат числа.dll
+C:\Users\Admin\Desktop\c#\task00_квадрат числа\obj\Debug\net6.0\refint\task00_квадрат числа.dll
+C:\Users\Admin\Desktop\c#\task00_квадрат числа\obj\Debug\net6.0\task00_квадрат числа.pdb
+C:\Users\Admin\Desktop\c#\task00_квадрат числа\obj\Debug\net6.0\task00_квадрат числа.genruntimeconfig.cache
+C:\Users\Admin\Desktop\c#\task00_квадрат числа\obj\Debug\net6.0\ref\task00_квадрат числа.dll
