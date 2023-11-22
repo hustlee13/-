@@ -42,4 +42,9 @@ System.Console.WriteLine("Ввести диапазон массива от: ");
 int userStart = Convert.ToInt32(Console.ReadLine());
 System.Console.WriteLine("Ввести диапазон массива до: ");
 int userEnd = Convert.ToInt32(Console.ReadLine());
+System.Console.WriteLine("Какое число хотите найти?");
+int userFind = Convert.ToInt32(Console.ReadLine());
 
+int[] userArray = GetRandArray(userStart, userEnd, userSize);
+PrintArray(userArray);
+System.Console.WriteLine($"Доступно ли число {userFind} в случайном массиве: {findNum(userArray, userFind)}"); 
